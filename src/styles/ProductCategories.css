@@ -1,0 +1,8 @@
+.category-link {
+  color: inherit;
+  text-decoration: none;
+}
+
+.category-link:hover {
+  text-decoration: underline;
+}
